@@ -19,7 +19,7 @@ Route::get('/', 'WelcomeController@index');
 
 
 Route::get('company_management', ['middleware' => ['auth','RedirectIfNotCompanyAdministrator'], 'as' => 'company_management', function () {
-	return view('company_management\home');
+	return view('company_management/home');
 }]);
 
 
