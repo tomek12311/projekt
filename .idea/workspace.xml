@@ -22,68 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="destinationController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="destinationController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/destinationController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.6603775">
-              <caret line="114" column="22" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/user/show.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/user/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
-              <folding>
-                <marker date="1461669055775" expanded="true" signature="1353:1557" placeholder="..." />
-                <marker date="1461669055775" expanded="true" signature="1365:1555" placeholder="..." />
-                <marker date="1461669055775" expanded="true" signature="1371:1554" placeholder="..." />
-                <marker date="1461669055775" expanded="true" signature="1948:2151" placeholder="..." />
-                <marker date="1461669055775" expanded="true" signature="1960:2150" placeholder="..." />
-                <marker date="1461669055775" expanded="true" signature="1966:2149" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.307692">
-              <caret line="69" column="48" selection-start-line="69" selection-start-column="48" selection-end-line="69" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/map.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58454645">
-              <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.32448035">
+              <caret line="91" column="89" selection-start-line="91" selection-start-column="89" selection-end-line="91" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -92,40 +35,90 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.923077">
-              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            <state vertical-scroll-proportion="-8.0188675">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WelcomeController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
+      <file leaf-file-name="VerifyCsrfToken.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state vertical-scroll-proportion="-6.735849">
+              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="34" />
+            <state vertical-scroll-proportion="-9.792453">
+              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coordinateContoller.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/coordinateContoller.php">
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="69" column="48" selection-start-line="69" selection-start-column="48" selection-end-line="69" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/map.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedirectIfNotAnAdmin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotAnAdmin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="administrator_systemu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Middleware/administrator_systemu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="companyController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/companyController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.730769">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedirectIfNotCompanyAdministrator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotCompanyAdministrator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.811321">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
-                <element signature="e#39#58#0#PHP" expanded="true" />
+                <element signature="e#38#50#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,13 +151,10 @@
         <option value="$PROJECT_DIR$/resources/views/companies/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
         <option value="$PROJECT_DIR$/app/Services/Registrar.php" />
-        <option value="$PROJECT_DIR$/resources/views/company_management/home.blade.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/resources/views/user/_form.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/userController.php" />
         <option value="$PROJECT_DIR$/resources/views/user/index.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Middleware/administrator_systemu.php" />
-        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/companyController.php" />
         <option value="$PROJECT_DIR$/database/migrations/2016_04_26_130807_create_destinations_table.php" />
         <option value="$PROJECT_DIR$/resources/views/user/create.blade.php" />
@@ -172,14 +162,18 @@
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/vendor/compiled.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
-        <option value="$PROJECT_DIR$/app/User.php" />
-        <option value="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
         <option value="$PROJECT_DIR$/app/coordinate.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/coordinateContoller.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/destinationController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/resources/views/map.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/company_management/home.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/administrator_systemu.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotCompanyAdministrator.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/destinationController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
   </component>
@@ -228,6 +222,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -244,20 +239,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="projekt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,6 +279,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projekt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company_management" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,7 +368,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jQueryUI" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -537,7 +540,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -549,6 +551,11 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\projekt\public\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -602,6 +609,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -613,7 +621,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -636,20 +643,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6226416">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/companies/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.538462">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.961538">
@@ -686,38 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/company_management/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6293393">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68533033">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="113.76923">
           <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.3396225">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -739,13 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.153846">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -827,34 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotAnAdmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/administrator_systemu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/RoutableFragmentRenderer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/compiled.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -878,13 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/companyController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="75" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -927,15 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,7 +866,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
           <folding>
-            <element signature="e#39#58#0#PHP" expanded="true" />
+            <element signature="e#39#58#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -982,31 +896,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+    <entry file="file://$PROJECT_DIR$/public/images/map_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.923077">
-          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/destinationController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/company_management/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.6603775">
-          <caret line="114" column="22" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Fragment/RoutableFragmentRenderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.3396225">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.23077">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.538462">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.792453">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotAnAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotCompanyAdministrator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.811321">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#50#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/administrator_systemu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/companyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.307692">
+        <state vertical-scroll-proportion="-6.5384617">
           <caret line="69" column="48" selection-start-line="69" selection-start-column="48" selection-end-line="69" selection-end-column="61" />
           <folding />
         </state>
@@ -1014,8 +1007,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/map.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58454645">
-          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.735849">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.0188675">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/destinationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32448035">
+          <caret line="91" column="89" selection-start-line="91" selection-start-column="89" selection-end-line="91" selection-end-column="89" />
           <folding />
         </state>
       </provider>

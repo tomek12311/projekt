@@ -82,6 +82,19 @@ class destinationController extends Controller {
 
 	}
 
+	public function getPunktyAndroid(Request $request){
+		$id = $request->id;
+
+		$punkty = User::find($id)->destinations()->get()->sortby('order');
+		$response = '';
+
+		foreach($punkty as $punkt){
+			$response = $response.$punkt->id.';'.$punkt->dlugosc.';'.$punkt->szerokosc.';opis'.'|';
+		}
+
+		return($response);
+	}
+
 	public function getPunkty(Request $request){
 		$id = $request->id;
 

@@ -8,8 +8,9 @@
                     <div class="panel-heading">Home</div>
 
                     <div class="panel-body">
+
                         <a href="{{action('companyController@show', Auth::User() -> company_id)}}">Pracownicy</a>
-                        Mapa
+
                         Statystyki
 
                     </div>

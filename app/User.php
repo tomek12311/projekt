@@ -38,6 +38,13 @@ class User extends Model implements AuthenticatableContract, CanResetPasswordCon
 			return false;
 	}
 
+	public function isACompanyAdmin(){
+		if($this->permission_id==2)
+			return true;
+		else
+			return false;
+	}
+
 	public function company(){
 		return $this->belongsTo('App\company');
 	}

@@ -18,12 +18,14 @@ Route::get('/', 'WelcomeController@index');
 //Route::post('home', 'HomeController@json');
 
 
-Route::get('company_management', ['as' => 'company_management', function () {
+Route::get('company_management', ['middleware' => ['auth','RedirectIfNotCompanyAdministrator'], 'as' => 'company_management', function () {
 	return view('company_management\home');
 }]);
 
 
-Route::get('home', 'HomeController@map');
+Route::get('home', [
+		'as' => 'home', 'uses' => 'HomeController@map'
+]);
 Route::post('home', 'HomeController@test');
 
 Route::post('androidlogin', 'HomeController@android');
@@ -38,6 +40,7 @@ Route::get('destinations_sort', 'destinationController@sort');
 Route::get('destinations_punkty', 'destinationController@getPunkty');
 
 Route::post('android/add_coordinate', 'coordinateContoller@store');
+Route::post('android/destinations_punkty_android', 'destinationController@getPunktyAndroid');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
